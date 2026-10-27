@@ -1,3 +1,7 @@
+Dashboard Preview
+
+![Digital Banking Request Tracker Dashboard](Dashboard.png)
+ 
  Digital Banking Request Tracker
 An Excel-based request management dashboard designed to track digital banking requests, monitor SLA compliance, prioritize tasks, and manage team workloads.
 
