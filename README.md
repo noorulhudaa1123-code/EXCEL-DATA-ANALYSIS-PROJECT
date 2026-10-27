@@ -64,6 +64,6 @@ How to Use
 4. Explore the Dashboard and Request Tracker.
 5. Use the sample data to understand the tracking and reporting workflow.
 
-## 👤 Author
+Author
 
 Created as a portfolio project to demonstrate Excel-based dashboard development, request tracking, and operational reporting.
